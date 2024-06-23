@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1543.3718"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-749.551819 -693.279114 1543.371826 1397.755737"
+     height="1397.7557" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Agrippinus id_Alegre"
+              d="M 349.044769,-248.195877 A 177.316837,177.316837 0,0 1,261.962311,-424.288300"
+              stroke="#60917b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agrippinus id_Balde"
+              d="M 347.852966,-242.898026 A 308.052814,308.052814 0,0 1,50.950188,-434.705994"
+              stroke="#767a9b" stroke-width="4.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Calenzio"
+              d="M 353.546082,-252.466537 A 278.231622,278.231622 0,0 1,411.001007,-564.892395"
+              stroke="#60917b" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Conradi"
+              d="M 360.563568,-253.056229 A 196.958750,196.958750 0,0 1,532.125732,-390.856354"
+              stroke="#7f6185" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Fahlcrantz"
+              d="M 360.465881,-233.785995 A 402.263371,402.263371 0,0 1,193.829758,202.010101"
+              stroke="#60917b" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Lemnius"
+              d="M 367.691772,-241.727493 A 186.021162,186.021162 0,0 1,513.591187,-95.015068"
+              stroke="#60917b" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Marsuppini"
+              d="M 366.409424,-248.586395 A 267.211954,267.211954 0,0 1,669.779358,-223.171570"
+              stroke="#60917b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Munsinger"
+              d="M 349.483246,-237.940262 A 394.473658,394.473658 0,0 1,-107.182686,-260.394165"
+              stroke="#60917b" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agrippinus id_Negri"
+              d="M 366.972717,-239.364426 A 484.776134,484.776134 0,0 1,647.234070,251.926300"
+              stroke="#60917b" stroke-width="1.8000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Osius_1566"
+              d="M 350.300476,-236.863724 A 714.322074,714.322074 0,0 1,-488.081512,-169.263840"
+              stroke="#4e9770" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Recanatesi"
+              d="M 352.874481,-234.753784 A 401.671813,401.671813 0,0 1,-72.440804,-44.673191"
+              stroke="#60917b" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Reuchlin_1510"
+              d="M 367.819458,-242.816910 A 369.709458,369.709458 0,0 1,697.031189,29.887701"
+              stroke="#60917b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agrippinus id_Rosius"
+              d="M 356.092621,-233.588272 A 286.842564,286.842564 0,0 1,120.440247,-5.433046"
+              stroke="#60917b" stroke-width="5.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agrippinus id_Siemuszowski"
+              d="M 348.074615,-241.274750 A 480.707175,480.707175 0,0 1,-164.965057,-467.554352"
+              stroke="#60917b" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agrippinus id_Smet"
+              d="M 350.118439,-237.078613 A 198.859957,198.859957 0,0 1,128.334488,-221.430359"
+              stroke="#4e8b1b" stroke-width="4.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agrippinus id_Teuber"
+              d="M 349.456970,-248.888931 A 375.192551,375.192551 0,0 1,195.031235,-654.563354"
+              stroke="#009b9b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alegre id_Balde"
+              d="M 255.098358,-428.768951 A 180.338941,180.338941 0,0 1,55.226082,-437.887512"
+              stroke="#d6a9df" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alegre id_Conradi"
+              d="M 272.431915,-438.696014 A 234.874411,234.874411 0,0 1,534.960083,-398.434601"
+              stroke="#df90c9" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alegre id_Lecluse"
+              d="M 270.308563,-426.827423 A 355.036200,355.036200 0,0 1,318.266968,-19.766781"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alegre id_Lemnius"
+              d="M 273.020020,-431.055420 A 358.602179,358.602179 0,0 1,515.290710,-95.152420"
+              stroke="#c0c0c0" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alegre id_Plumptre"
+              d="M 253.560715,-435.107330 A 309.486402,309.486402 0,0 1,-13.114368,-669.725525"
+              stroke="#df899b" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Alegre id_Siemuszowski"
+              d="M 254.903564,-429.085541 A 362.921179,362.921179 0,0 1,-162.478394,-469.578949"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alegre id_Smet"
+              d="M 263.656769,-424.167786 A 210.360913,210.360913 0,0 1,129.207855,-230.024933"
+              stroke="#aeba60" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Calenzio"
+              d="M 53.069862,-452.221252 A 326.903928,326.903928 0,0 1,408.662018,-574.727295"
+              stroke="#d6a9df" stroke-width="5.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Conradi"
+              d="M 55.984985,-449.046356 A 414.634027,414.634027 0,0 1,534.705933,-398.164978"
+              stroke="#f579e9" stroke-width="4.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Gager"
+              d="M 40.841763,-436.423920 A 343.906058,343.906058 0,0 1,-344.755463,-344.019653"
+              stroke="#d6a9df" stroke-width="5.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Hotman"
+              d="M 56.775661,-440.733276 A 606.220984,606.220984 0,0 1,458.236053,146.525009"
+              stroke="#f29ad5" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Johnson"
+              d="M 45.843105,-434.141296 A 396.120666,396.120666 0,0 1,-277.287170,-107.879860"
+              stroke="#ee977f" stroke-width="4.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Lecluse"
+              d="M 56.590645,-440.244720 A 423.481250,423.481250 0,0 1,314.173004,-21.017237"
+              stroke="#d6a9df" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Lemnius"
+              d="M 57.332325,-443.819946 A 491.406383,491.406383 0,0 1,512.449402,-94.754227"
+              stroke="#d6a9df" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Moreno"
+              d="M 52.280552,-435.338257 A 554.905323,554.905323 0,0 1,-23.642391,209.989853"
+              stroke="#d6a9df" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Munsinger"
+              d="M 46.111958,-434.104462 A 200.331820,200.331820 0,0 1,-105.180794,-268.777649"
+              stroke="#d6a9df" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Osius_1556"
+              d="M 38.308414,-439.724854 A 422.218789,422.218789 0,0 1,-443.692719,-530.754028"
+              stroke="#b36c8f" stroke-width="11.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Osius_1560"
+              d="M 40.159344,-437.064056 A 555.436074,555.436074 0,0 1,-604.245117,-348.838409"
+              stroke="#d6a9df" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Paolini"
+              d="M 45.558777,-434.188385 A 590.927355,590.927355 0,0 1,-458.078308,41.852722"
+              stroke="#d6a9df" stroke-width="4.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Pareus"
+              d="M 37.336166,-444.210999 A 308.052305,308.052305 0,0 1,-245.031128,-656.837036"
+              stroke="#d6a9df" stroke-width="7.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Plumptre"
+              d="M 39.633942,-450.409180 A 203.036148,203.036148 0,0 1,-18.826984,-670.117126"
+              stroke="#f572bb" stroke-width="6.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Recanatesi"
+              d="M 50.422230,-434.518097 A 348.212750,348.212750 0,0 1,-74.118164,-52.627712"
+              stroke="#d6a9df" stroke-width="3.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Rosius"
+              d="M 54.315056,-436.868988 A 370.449840,370.449840 0,0 1,115.225266,-12.842121"
+              stroke="#d6a9df" stroke-width="2.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Schermer"
+              d="M 42.634327,-435.202881 A 682.306491,682.306491 0,0 1,-681.766602,-89.458878"
+              stroke="#d6a9df" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Balde id_Siemuszowski"
+              d="M 38.414768,-439.508606 A 183.050021,183.050021 0,0 1,-162.728012,-469.308228"
+              stroke="#d6a9df" stroke-width="10.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Smet"
+              d="M 55.404594,-438.124023 A 190.957774,190.957774 0,0 1,122.711136,-236.205841"
+              stroke="#c4a37f" stroke-width="5.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Balde id_Teuber"
+              d="M 47.115177,-454.027039 A 222.171571,222.171571 0,0 1,188.273117,-660.774475"
+              stroke="#76b2ff" stroke-width="5.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Bergler"
+              d="M -395.083923,252.547089 A 332.806612,332.806612 0,0 1,-67.627388,451.560608"
+              stroke="#c0c0c0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Clarke"
+              d="M -395.134827,254.669617 A 174.791990,174.791990 0,0 1,-252.989166,385.831573"
+              stroke="#c0c0c0" stroke-width="2.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Ernesti"
+              d="M -409.769318,262.186249 A 183.304703,183.304703 0,0 1,-591.964478,353.158325"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Barresi id_Fahlcrantz"
+              d="M -397.472870,246.844055 A 493.557008,493.557008 0,0 1,176.940109,202.168503"
+              stroke="#c0c0c0" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Lecluse"
+              d="M -399.549194,245.018799 A 637.943751,637.943751 0,0 1,303.764282,-13.842109"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Mariner"
+              d="M -396.310669,248.509476 A 626.277899,626.277899 0,0 1,333.114532,342.361847"
+              stroke="#60c5b0" stroke-width="7.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Moreno"
+              d="M -397.555511,246.749283 A 313.593814,313.593814 0,0 1,-39.090733,212.227127"
+              stroke="#c0c0c0" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Otto"
+              d="M -395.930878,249.266083 A 788.948791,788.948791 0,0 1,513.445068,447.176971"
+              stroke="#c0c0c0" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Rosius"
+              d="M -400.479218,244.475647 A 480.218538,480.218538 0,0 1,100.686867,-5.699016"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Schafer"
+              d="M -401.279541,244.107971 A 179.531548,179.531548 0,0 1,-233.492264,136.906418"
+              stroke="#c0c0c0" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Barresi id_Schermer"
+              d="M -414.746033,250.922958 A 373.551087,373.551087 0,0 1,-690.951843,-81.376015"
+              stroke="#c0c0c0" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Brescia"
+              d="M -53.927929,462.566742 A 252.443354,252.443354 0,0 1,145.253098,668.776245"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bergler id_Chateillon"
+              d="M -56.023521,454.459595 A 165.522594,165.522594 0,0 1,125.780701,441.410461"
+              stroke="#df986f" stroke-width="7.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Clarke"
+              d="M -73.383957,463.530853 A 165.129223,165.129223 0,0 1,-245.067871,403.735107"
+              stroke="#c0c0c0" stroke-width="5.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Ernesti"
+              d="M -72.847565,464.976685 A 457.532432,457.532432 0,0 1,-595.118774,359.030640"
+              stroke="#c0c0c0" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Lycius"
+              d="M -73.648026,462.330780 A 573.860400,573.860400 0,0 1,-670.276978,151.962387"
+              stroke="#c0c0c0" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Mariner"
+              d="M -57.539673,452.962402 A 349.341442,349.341442 0,0 1,330.979706,345.753998"
+              stroke="#60c5b0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Otto"
+              d="M -55.768963,454.784698 A 486.528098,486.528098 0,0 1,511.911438,448.866272"
+              stroke="#c0c0c0" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bergler id_Pseudo-Manuzio"
+              d="M -66.230705,470.477905 A 227.993282,227.993282 0,0 1,-262.982422,636.335876"
+              stroke="#7bbadf" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bergler id_Reuchlin_1495"
+              d="M -58.064453,468.999817 A 191.587046,191.587046 0,0 1,-60.297234,682.584900"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Rhenanus"
+              d="M -54.236774,457.760284 A 357.536861,357.536861 0,0 1,337.403015,588.475708"
+              stroke="#60cb71" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brescia id_Chateillon"
+              d="M 140.475571,670.839050 A 193.695251,193.695251 0,0 1,128.998932,455.014099"
+              stroke="#df986f" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Brescia id_Crespinus"
+              d="M 137.384476,682.329346 A 519.556355,519.556355 0,0 1,-449.635468,526.492615"
+              stroke="#86879b" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brescia id_Pseudo-Manuzio"
+              d="M 138.066650,683.732605 A 351.412492,351.412492 0,0 1,-265.486023,643.776917"
+              stroke="#7bbadf" stroke-width="4.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brescia id_Reuchlin_1495"
+              d="M 138.864090,684.895386 A 177.667814,177.667814 0,0 1,-57.693542,695.981323"
+              stroke="#c0c0c0" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Brescia id_Rhenanus"
+              d="M 152.003113,670.199341 A 177.464097,177.464097 0,0 1,333.446960,594.439270"
+              stroke="#60cb71" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Calenzio id_Lemnius"
+              d="M 425.592957,-565.044067 A 413.525018,413.525018 0,0 1,519.454346,-94.222786"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Calenzio id_Plumptre"
+              d="M 408.964050,-568.035461 A 372.260066,372.260066 0,0 1,-8.893901,-671.814453"
+              stroke="#df899b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Calenzio id_Recanatesi"
+              d="M 416.967346,-561.885742 A 604.447404,604.447404 0,0 1,-72.370766,-48.497978"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Calenzio id_Siemuszowski"
+              d="M 411.219727,-564.670837 A 496.579926,496.579926 0,0 1,-161.048737,-471.671448"
+              stroke="#c0c0c0" stroke-width="5.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Calenzio id_Teuber"
+              d="M 408.470581,-569.607605 A 199.279879,199.279879 0,0 1,202.939270,-655.714905"
+              stroke="#60c9df" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chateillon id_Clarke"
+              d="M 125.557083,451.329865 A 323.835462,323.835462 0,0 1,-243.646622,402.496521"
+              stroke="#df986f" stroke-width="4.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Crespinus"
+              d="M 127.066788,453.418884 A 495.536886,495.536886 0,0 1,-447.184784,523.598267"
+              stroke="#a5604a" stroke-width="2.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Ernesti"
+              d="M 125.608170,451.422943 A 618.576992,618.576992 0,0 1,-594.624390,358.548767"
+              stroke="#df986f" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chateillon id_Lycius"
+              d="M 124.732147,449.306122 A 720.096000,720.096000 0,0 1,-669.242981,151.376144"
+              stroke="#df986f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Mariner"
+              d="M 139.251984,437.850098 A 189.840831,189.840831 0,0 1,330.493195,347.526154"
+              stroke="#7f9d5f" stroke-width="2.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chateillon id_Otto"
+              d="M 142.563782,440.862946 A 321.475258,321.475258 0,0 1,512.067261,448.655212"
+              stroke="#df986f" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Pseudo-Manuzio"
+              d="M 129.528488,455.327087 A 374.727717,374.727717 0,0 1,-263.136169,639.037109"
+              stroke="#9a928e" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Reuchlin_1495"
+              d="M 133.718140,456.545929 A 263.258402,263.258402 0,0 1,-56.503880,688.120361"
+              stroke="#df986f" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Rhenanus"
+              d="M 144.349319,446.594208 A 214.309862,214.309862 0,0 1,339.988434,587.151428"
+              stroke="#7fa420" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Crespinus"
+              d="M -254.899277,404.775055 A 199.266782,199.266782 0,0 1,-445.933563,519.476685"
+              stroke="#86879b" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Ernesti"
+              d="M -259.664795,400.421204 A 294.745116,294.745116 0,0 1,-594.538757,358.458191"
+              stroke="#c0c0c0" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Lycius"
+              d="M -260.854034,396.546906 A 411.141265,411.141265 0,0 1,-670.771851,152.188828"
+              stroke="#c0c0c0" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Otto"
+              d="M -242.421402,390.305023 A 644.327520,644.327520 0,0 1,512.464905,448.164093"
+              stroke="#c0c0c0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Clarke id_Pseudo-Manuzio"
+              d="M -245.862534,404.250153 A 202.098101,202.098101 0,0 1,-266.434387,629.538635"
+              stroke="#7bbadf" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Rhenanus"
+              d="M -241.367615,392.581940 A 522.656534,522.656534 0,0 1,337.472687,588.426514"
+              stroke="#60cb71" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Conradi id_Johnson"
+              d="M 536.437866,-383.205170 A 730.770540,730.770540 0,0 1,-277.623444,-103.285782"
+              stroke="#f77e69" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Conradi id_Plumptre"
+              d="M 532.231567,-389.878326 A 522.871073,522.871073 0,0 1,-10.876631,-670.519409"
+              stroke="#ff59a5" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Conradi id_Rosius"
+              d="M 540.062439,-381.653412 A 483.301372,483.301372 0,0 1,120.494171,-4.988798"
+              stroke="#df90c9" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Conradi id_Smet"
+              d="M 536.725159,-383.014557 A 377.772838,377.772838 0,0 1,129.466873,-224.086029"
+              stroke="#ce8a69" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Crespinus id_Ernesti"
+              d="M -465.625458,516.359375 A 184.863452,184.863452 0,0 1,-600.833557,361.581512"
+              stroke="#86879b" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Crespinus id_Lycius"
+              d="M -465.059448,514.679932 A 362.309887,362.309887 0,0 1,-675.705688,152.933243"
+              stroke="#86879b" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Crespinus id_Pseudo-Manuzio"
+              d="M -445.912018,518.285889 A 181.611957,181.611957 0,0 1,-276.663940,627.838135"
+              stroke="#4181ba" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Crespinus id_Rhenanus"
+              d="M -447.320313,513.569458 A 669.083022,669.083022 0,0 1,335.776215,589.926819"
+              stroke="#26934c" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ernesti id_Lycius"
+              d="M -609.994446,345.834198 A 184.162590,184.162590 0,0 1,-677.451782,152.594833"
+              stroke="#c0c0c0" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ernesti id_Reuchlin_1495"
+              d="M -591.871765,350.936066 A 528.296691,528.296691 0,0 1,-69.810585,681.363525"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fahlcrantz id_Hotman"
+              d="M 192.354431,200.224655 A 230.969661,230.969661 0,0 1,448.820068,152.285873"
+              stroke="#dcb1b5" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fahlcrantz id_Lecluse"
+              d="M 184.535355,197.484879 A 210.993224,210.993224 0,0 1,304.240906,-6.960387"
+              stroke="#c0c0c0" stroke-width="6.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fahlcrantz id_Mariner"
+              d="M 195.355316,208.705399 A 175.022729,175.022729 0,0 1,338.210358,339.505402"
+              stroke="#60c5b0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fahlcrantz id_Moreno"
+              d="M 177.543411,213.586014 A 180.108559,180.108559 0,0 1,-22.052237,222.693298"
+              stroke="#c0c0c0" stroke-width="4.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fahlcrantz id_Osius_1566"
+              d="M 175.513504,208.693726 A 651.414820,651.414820 0,0 1,-492.457123,-165.429352"
+              stroke="#aec5b5" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fahlcrantz id_Otto"
+              d="M 195.434875,207.517502 A 346.702104,346.702104 0,0 1,517.027954,445.161865"
+              stroke="#c0c0c0" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fahlcrantz id_Recanatesi"
+              d="M 175.522659,206.124237 A 307.613488,307.613488 0,0 1,-80.390762,-36.933914"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fahlcrantz id_Rosius"
+              d="M 177.259613,201.685791 A 186.934794,186.934794 0,0 1,107.814072,5.614300"
+              stroke="#c0c0c0" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fahlcrantz id_Schafer"
+              d="M 176.471741,211.877960 A 345.748074,345.748074 0,0 1,-216.527191,144.542007"
+              stroke="#c0c0c0" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gager id_Munsinger"
+              d="M -344.414520,-350.738312 A 210.365681,210.365681 0,0 1,-120.799019,-274.799072"
+              stroke="#c0c0c0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gager id_Pareus"
+              d="M -356.986694,-357.396759 A 279.767038,279.767038 0,0 1,-256.084473,-660.554260"
+              stroke="#c0c0c0" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gager id_Plumptre"
+              d="M -352.346954,-357.720337 A 394.999247,394.999247 0,0 1,-25.211796,-678.044861"
+              stroke="#df899b" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gager id_Rosius"
+              d="M -343.990295,-347.815430 A 481.623058,481.623058 0,0 1,107.582832,-13.558235"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gager id_Schermer"
+              d="M -356.866119,-338.278717 A 353.320197,353.320197 0,0 1,-681.587097,-91.559799"
+              stroke="#c0c0c0" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gager id_Smet"
+              d="M -344.706390,-351.572510 A 407.540979,407.540979 0,0 1,113.440002,-234.357697"
+              stroke="#aeba60" stroke-width="4.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hotman id_Moreno"
+              d="M 450.598206,163.372482 A 410.098327,410.098327 0,0 1,-21.730829,222.155670"
+              stroke="#dcb1b5" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hotman id_Otto"
+              d="M 465.254669,163.272583 A 253.824656,253.824656 0,0 1,524.096008,445.561554"
+              stroke="#dcb1b5" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hotman id_Rosius"
+              d="M 448.069397,158.455368 A 318.864759,318.864759 0,0 1,115.424835,4.720892"
+              stroke="#dcb1b5" stroke-width="1.8000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hotman id_Schafer"
+              d="M 449.664246,162.219574 A 568.043495,568.043495 0,0 1,-215.620529,143.530441"
+              stroke="#dcb1b5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hotman id_Smet"
+              d="M 448.112549,154.374893 A 425.823856,425.823856 0,0 1,120.709320,-216.681030"
+              stroke="#caab55" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Johnson id_Moreno"
+              d="M -277.526001,-103.614258 A 344.197527,344.197527 0,0 1,-30.886805,207.304474"
+              stroke="#d8ae60" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Johnson id_Munsinger"
+              d="M -285.145386,-116.088043 A 196.104334,196.104334 0,0 1,-124.871841,-265.366669"
+              stroke="#d8ae60" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Johnson id_Osius_1566"
+              d="M -296.710266,-103.326447 A 183.546008,183.546008 0,0 1,-490.607147,-166.518143"
+              stroke="#c6b355" stroke-width="1.8000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Johnson id_Rosius"
+              d="M -277.863312,-109.975922 A 342.205187,342.205187 0,0 1,104.175880,-11.717656"
+              stroke="#d8ae60" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Johnson id_Siemuszowski"
+              d="M -290.317627,-115.781731 A 323.376299,323.376299 0,0 1,-177.999054,-470.281830"
+              stroke="#d8ae60" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Johnson id_Smet"
+              d="M -281.077576,-114.230316 A 353.650321,353.650321 0,0 1,110.376953,-229.991623"
+              stroke="#c6a800" stroke-width="4.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lecluse id_Moreno"
+              d="M 309.884979,-1.675441 A 343.961371,343.961371 0,0 1,-20.479622,217.723007"
+              stroke="#c0c0c0" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lecluse id_Recanatesi"
+              d="M 304.780975,-5.922579 A 330.995852,330.995852 0,0 1,-74.691147,-40.183201"
+              stroke="#c0c0c0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lecluse id_Rosius"
+              d="M 305.397491,-5.008735 A 169.121850,169.121850 0,0 1,118.911461,1.467434"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lecluse id_Smet"
+              d="M 303.599701,-13.196738 A 241.447465,241.447465 0,0 1,120.884590,-216.698624"
+              stroke="#aeba60" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lemnius id_Mariner"
+              d="M 517.697632,-75.458321 A 390.263453,390.263453 0,0 1,348.825439,343.986816"
+              stroke="#60c5b0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lemnius id_Moreno"
+              d="M 511.067352,-76.066330 A 519.935129,519.935129 0,0 1,-20.552052,218.570358"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lemnius id_Recanatesi"
+              d="M 507.580017,-78.728401 A 498.912537,498.912537 0,0 1,-73.796822,-41.374710"
+              stroke="#c0c0c0" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lemnius id_Rosius"
+              d="M 508.471619,-77.794510 A 343.963457,343.963457 0,0 1,119.627708,0.172244"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lemnius id_Smet"
+              d="M 505.648712,-82.335060 A 349.995485,349.995485 0,0 1,125.428123,-218.374725"
+              stroke="#aeba60" stroke-width="8.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mariner id_Moreno"
+              d="M 330.745941,352.100403 A 327.997271,327.997271 0,0 1,-24.819151,225.545792"
+              stroke="#60c5b0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mariner id_Otto"
+              d="M 350.303497,348.435913 A 173.614253,173.614253 0,0 1,515.905884,445.591187"
+              stroke="#60c5b0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mariner id_Rhenanus"
+              d="M 346.237061,357.351593 A 206.133224,206.133224 0,0 1,348.915771,588.409607"
+              stroke="#00d061" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mariner id_Schafer"
+              d="M 330.712067,351.982635 A 501.953970,501.953970 0,0 1,-218.041748,145.754105"
+              stroke="#60c5b0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mariner id_Smet"
+              d="M 331.926941,343.868896 A 513.915385,513.915385 0,0 1,117.149757,-216.996582"
+              stroke="#4ebf50" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Marsuppini id_Negri"
+              d="M 682.733704,-208.223511 A 399.623067,399.623067 0,0 1,652.502502,254.188126"
+              stroke="#c0c0c0" stroke-width="9.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Marsuppini id_Reuchlin_1510"
+              d="M 683.863770,-209.057861 A 214.331657,214.331657 0,0 1,704.586060,30.971716"
+              stroke="#c0c0c0" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Osius_1566"
+              d="M -40.449112,216.642258 A 507.437978,507.437978 0,0 1,-494.216461,-164.824265"
+              stroke="#aec5b5" stroke-width="2.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Otto"
+              d="M -20.725557,215.051651 A 499.593995,499.593995 0,0 1,514.977295,446.072083"
+              stroke="#c0c0c0" stroke-width="3.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Paolini"
+              d="M -40.155121,219.787384 A 392.454335,392.454335 0,0 1,-462.682709,51.538441"
+              stroke="#c0c0c0" stroke-width="2.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Recanatesi"
+              d="M -37.745850,210.435104 A 224.236696,224.236696 0,0 1,-86.367126,-37.665974"
+              stroke="#c0c0c0" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Rosius"
+              d="M -31.003357,207.310013 A 218.675427,218.675427 0,0 1,101.266479,-0.270708"
+              stroke="#c0c0c0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Schafer"
+              d="M -40.224537,219.500046 A 174.102166,174.102166 0,0 1,-218.161972,145.831268"
+              stroke="#c0c0c0" stroke-width="2.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Schermer"
+              d="M -40.274155,219.267670 A 608.012620,608.012620 0,0 1,-686.801941,-82.574036"
+              stroke="#c0c0c0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Moreno id_Siemuszowski"
+              d="M -37.873341,210.572876 A 589.503761,589.503761 0,0 1,-174.181931,-467.158875"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Moreno id_Smet"
+              d="M -33.466862,207.755280 A 390.565145,390.565145 0,0 1,111.623199,-220.880402"
+              stroke="#aeba60" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Munsinger id_Paolini"
+              d="M -117.139992,-256.922577 A 391.389933,391.389933 0,0 1,-458.043732,42.178368"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Munsinger id_Recanatesi"
+              d="M -108.038391,-259.463074 A 185.283399,185.283399 0,0 1,-77.702003,-55.686722"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Munsinger id_Rosius"
+              d="M -105.234085,-264.351105 A 288.493717,288.493717 0,0 1,109.711250,-13.971657"
+              stroke="#c0c0c0" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Munsinger id_Siemuszowski"
+              d="M -122.617889,-273.111145 A 180.530058,180.530058 0,0 1,-173.468460,-466.859039"
+              stroke="#c0c0c0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Munsinger id_Smet"
+              d="M -105.951447,-271.025665 A 198.456286,198.456286 0,0 1,112.740379,-233.723587"
+              stroke="#aeba60" stroke-width="4.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Negri id_Reuchlin_1510"
+              d="M 642.366150,252.579269 A 190.506025,190.506025 0,0 1,691.962891,46.156120"
+              stroke="#c0c0c0" stroke-width="8.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Negri id_Smet"
+              d="M 636.152710,260.732574 A 598.385495,598.385495 0,0 1,121.662155,-216.814667"
+              stroke="#aeba60" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Osius_1556 id_Osius_1560"
+              d="M -451.557098,-528.107178 A 204.842318,204.842318 0,0 1,-603.290527,-355.893311"
+              stroke="#9d8370" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Osius_1556 id_Pareus"
+              d="M -446.747955,-547.312378 A 199.829488,199.829488 0,0 1,-257.953766,-666.932922"
+              stroke="#9d8370" stroke-width="4.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Osius_1556 id_Plumptre"
+              d="M -444.666443,-546.156555 A 381.345174,381.345174 0,0 1,-24.819607,-682.589783"
+              stroke="#bd4d4b" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Osius_1556 id_Smet"
+              d="M -440.617493,-539.394714 A 541.506530,541.506530 0,0 1,115.568497,-235.700806"
+              stroke="#8c7d10" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Osius_1560 id_Osius_1566"
+              d="M -603.737366,-349.920837 A 178.009624,178.009624 0,0 1,-496.186859,-184.534607"
+              stroke="#aec5b5" stroke-width="5.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Osius_1560 id_Pareus"
+              d="M -610.735413,-363.352478 A 400.605834,400.605834 0,0 1,-257.938263,-665.622803"
+              stroke="#c0c0c0" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Osius_1560 id_Siemuszowski"
+              d="M -606.815491,-361.454681 A 383.103521,383.103521 0,0 1,-179.311066,-479.748444"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Osius_1560 id_Smet"
+              d="M -604.085144,-358.092987 A 619.788743,619.788743 0,0 1,112.881706,-233.861633"
+              stroke="#aeba60" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Osius_1566 id_Recanatesi"
+              d="M -487.116333,-177.787689 A 361.341437,361.341437 0,0 1,-88.207581,-54.774212"
+              stroke="#aec5b5" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Osius_1566 id_Smet"
+              d="M -489.044586,-181.121857 A 515.475901,515.475901 0,0 1,111.270401,-231.861877"
+              stroke="#9dbf55" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Otto id_Rosius"
+              d="M 510.250061,452.631592 A 512.411275,512.411275 0,0 1,111.491425,5.948610"
+              stroke="#c0c0c0" stroke-width="1.8000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paolini id_Plumptre"
+              d="M -468.770782,33.101120 A 710.539726,710.539726 0,0 1,-24.621725,-675.820862"
+              stroke="#df899b" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paolini id_Recanatesi"
+              d="M -461.457764,35.511898 A 330.088513,330.088513 0,0 1,-91.431824,-50.655430"
+              stroke="#c0c0c0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paolini id_Schafer"
+              d="M -458.320801,40.573608 A 218.381034,218.381034 0,0 1,-229.000885,129.024033"
+              stroke="#c0c0c0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paolini id_Siemuszowski"
+              d="M -469.125732,33.134800 A 498.956330,498.956330 0,0 1,-179.099884,-472.177551"
+              stroke="#c0c0c0" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paolini id_Smet"
+              d="M -463.153564,34.326630 A 538.938882,538.938882 0,0 1,110.005798,-228.665695"
+              stroke="#aeba60" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pareus id_Siemuszowski"
+              d="M -239.534103,-661.023254 A 171.295592,171.295592 0,0 1,-167.722595,-485.968964"
+              stroke="#c0c0c0" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Pareus id_Smet"
+              d="M -238.257858,-664.006531 A 477.724692,477.724692 0,0 1,119.164291,-236.619324"
+              stroke="#aeba60" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Plumptre id_Rosius"
+              d="M -8.010853,-672.650635 A 572.582680,572.582680 0,0 1,114.897217,-13.008323"
+              stroke="#df899b" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Plumptre id_Siemuszowski"
+              d="M -15.618984,-669.484924 A 212.830408,212.830408 0,0 1,-160.401703,-479.180237"
+              stroke="#df899b" stroke-width="5.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Plumptre id_Smet"
+              d="M -7.354712,-673.428162 A 393.806671,393.806671 0,0 1,123.141190,-236.064178"
+              stroke="#ce833b" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pseudo-Manuzio id_Reuchlin_1495"
+              d="M -263.599396,633.582092 A 178.002122,178.002122 0,0 1,-72.628517,683.042053"
+              stroke="#7bbadf" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pseudo-Manuzio id_Rhenanus"
+              d="M -265.299225,630.685669 A 514.572937,514.572937 0,0 1,334.777374,591.238831"
+              stroke="#1bc590" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Recanatesi id_Schermer"
+              d="M -90.688698,-41.448044 A 509.162272,509.162272 0,0 1,-683.980103,-84.862473"
+              stroke="#c0c0c0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Recanatesi id_Siemuszowski"
+              d="M -89.607796,-53.504211 A 365.271541,365.271541 0,0 1,-174.107025,-467.124298"
+              stroke="#c0c0c0" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Recanatesi id_Smet"
+              d="M -80.017708,-56.519871 A 225.410020,225.410020 0,0 1,109.854660,-225.579834"
+              stroke="#aeba60" stroke-width="3.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Recanatesi id_Teuber"
+              d="M -84.294914,-56.547543 A 564.932076,564.932076 0,0 1,188.939560,-659.323792"
+              stroke="#60c9df" stroke-width="0.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Reuchlin_1495 id_Rhenanus"
+              d="M -59.609566,683.131714 A 350.036760,350.036760 0,0 1,334.008972,592.694214"
+              stroke="#60cb71" stroke-width="2.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rosius id_Schermer"
+              d="M 101.902351,1.028289 A 672.391331,672.391331 0,0 1,-684.231018,-84.579651"
+              stroke="#c0c0c0" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rosius id_Smet"
+              d="M 105.104034,-12.398082 A 185.687910,185.687910 0,0 1,113.682045,-218.728027"
+              stroke="#aeba60" stroke-width="6.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Schafer id_Smet"
+              d="M -222.260483,127.454842 A 416.970097,416.970097 0,0 1,109.965645,-224.818008"
+              stroke="#aeba60" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Schermer id_Siemuszowski"
+              d="M -688.621216,-100.906654 A 540.203276,540.203276 0,0 1,-179.953827,-476.206970"
+              stroke="#c0c0c0" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Siemuszowski id_Smet"
+              d="M -159.988464,-475.389618 A 318.685773,318.685773 0,0 1,117.499786,-236.371689"
+              stroke="#aeba60" stroke-width="3.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Siemuszowski id_Teuber"
+              d="M -165.432785,-485.140717 A 344.079983,344.079983 0,0 1,187.786133,-665.766785"
+              stroke="#60c9df" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Smet id_Teuber"
+              d="M 115.413681,-235.626923 A 370.370926,370.370926 0,0 1,190.448318,-657.287354"
+              stroke="#4ec37f" stroke-width="0.2" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#006337" r="9.2" cx="357.83856"
+                class="id_Agrippinus" cy="-243.43468" stroke="#004526"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="263.5164"
+                class="id_Alegre" cy="-434.1668" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ec92ff" r="9.2" cx="47.33452"
+                class="id_Balde" cy="-444.02945" stroke="#a566b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="418.2259"
+                class="id_Calenzio" cy="-571.8062" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff60d3" r="9.2" cx="542.1086"
+                class="id_Conradi" cy="-391.44183" stroke="#b24393"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="185.43515"
+                class="id_Fahlcrantz" cy="207.44432" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="515.2436"
+                class="id_Lemnius" cy="-85.152534" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="677.3736"
+                class="id_Marsuppini" cy="-216.66562" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-114.958694"
+                class="id_Munsinger" cy="-266.68176" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="646.08887"
+                class="id_Negri" cy="261.8605" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9dcbaa" r="9.2" cx="-496.575"
+                class="id_Osius_1566" cy="-174.54214" stroke="#6d8e76"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-82.21951"
+                class="id_Recanatesi" cy="-46.765278" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="699.4958"
+                class="id_Reuchlin_1510" cy="39.57923" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="110.54256"
+                class="id_Rosius" cy="-4.0062704" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-169.95384"
+                class="id_Siemuszowski" cy="-476.22107" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9db400" r="9.2" cx="119.79836"
+                class="id_Smet" cy="-226.63945" stroke="#6d7d00"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00d3ff" r="9.2" cx="197.66429"
+                class="id_Teuber" cy="-664.21045" stroke="#0093b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="313.36652"
+                class="id_Lecluse" cy="-11.049812" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5377" r="9.2" cx="-15.31535"
+                class="id_Plumptre" cy="-679.4803" stroke="#b23a53"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-353.9902"
+                class="id_Gager" cy="-347.85626" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f8a2ab" r="9.2" cx="457.88007"
+                class="id_Hotman" cy="156.51868" stroke="#ad7177"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f09c00" r="9.2" cx="-287.1605"
+                class="id_Johnson" cy="-106.29318" stroke="#a86d00"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-30.470493"
+                class="id_Moreno" cy="217.2958" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#7b4720" r="9.2" cx="-450.52722"
+                class="id_Osius_1556" cy="-538.054" stroke="#563116"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-613.02844"
+                class="id_Osius_1560" cy="-353.61893" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-468.00375"
+                class="id_Paolini" cy="43.07166" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-247.96819"
+                class="id_Pareus" cy="-666.396" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-691.585"
+                class="id_Schermer" cy="-91.35595" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-405.05002"
+                class="id_Barresi" cy="253.3699" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-63.768078"
+                class="id_Bergler" cy="460.7859" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-250.89798"
+                class="id_Clarke" cy="395.61047" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-601.8475"
+                class="id_Ernesti" cy="351.63306" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00caa0" r="9.2" cx="340.33887"
+                class="id_Mariner" cy="349.27625" stroke="#008d70"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="520.03394"
+                class="id_Otto" cy="454.69937" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-223.50336"
+                class="id_Schafer" cy="137.3773" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="146.69177"
+                class="id_Brescia" cy="678.67224" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff711e" r="9.2" cx="134.34937"
+                class="id_Chateillon" cy="446.56586" stroke="#b24f15"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-674.68353"
+                class="id_Lycius" cy="142.98563" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#36b4ff" r="9.2" cx="-272.95135"
+                class="id_Pseudo-Manuzio" cy="637.1234" stroke="#257db2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-66.171326"
+                class="id_Reuchlin_1495" cy="690.6778" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00d722" r="9.2" cx="343.2064"
+                class="id_Rhenanus" cy="596.6195" stroke="#009617"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c4f76" r="9.2" cx="-455.9034"
+                class="id_Crespinus" cy="518.70074" stroke="#353752"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="357.83856" y="-237.97374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Agrippinus">
+            [Agrippinus]
+        </text>
+        <text font-size="24" x="263.5164" y="-428.70587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Alegre">
+            [Alegre]
+        </text>
+        <text font-size="24" x="47.33452" y="-438.67007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Balde">
+            [Balde]
+        </text>
+        <text font-size="24" x="418.2259" y="-566.44684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Calenzio">
+            [Calenzio]
+        </text>
+        <text font-size="24" x="542.1086" y="-386.08246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Conradi">
+            [Conradi]
+        </text>
+        <text font-size="24" x="185.43515" y="212.8037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Fahlcrantz">
+            [Fahlcrantz]
+        </text>
+        <text font-size="24" x="515.2436" y="-79.79316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Lemnius">
+            [Lemnius]
+        </text>
+        <text font-size="24" x="677.3736" y="-211.2164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Marsuppini">
+            [Marsuppini]
+        </text>
+        <text font-size="24" x="-114.958694" y="-261.22083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Munsinger">
+            [Munsinger]
+        </text>
+        <text font-size="24" x="646.08887" y="267.32144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Negri">
+            [Negri]
+        </text>
+        <text font-size="24" x="-496.575" y="-169.18277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Osius_1566">
+            [&quot;Osius 1566&quot;]
+        </text>
+        <text font-size="24" x="-82.21951" y="-41.405903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Recanatesi">
+            [Recanatesi]
+        </text>
+        <text font-size="24" x="699.4958" y="44.938606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Reuchlin_1510">
+            [&quot;Reuchlin 1510&quot;]
+        </text>
+        <text font-size="24" x="110.54256" y="1.3531046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Rosius">
+            [Rosius]
+        </text>
+        <text font-size="24" x="-169.95384" y="-470.8617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Siemuszowski">
+            [Siemuszowski]
+        </text>
+        <text font-size="24" x="119.79836" y="-221.38164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Smet">
+            [Smet]
+        </text>
+        <text font-size="24" x="197.66429" y="-658.8511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Teuber">
+            [Teuber]
+        </text>
+        <text font-size="24" x="313.36652" y="-5.6904373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Lecluse">
+            [Lecluse]
+        </text>
+        <text font-size="24" x="-15.31535" y="-674.03107" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Plumptre">
+            [Plumptre]
+        </text>
+        <text font-size="24" x="-353.9902" y="-342.4969" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Gager">
+            [Gager]
+        </text>
+        <text font-size="24" x="457.88007" y="161.77649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Hotman">
+            [Hotman]
+        </text>
+        <text font-size="24" x="-287.1605" y="-100.93381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Johnson">
+            [Johnson]
+        </text>
+        <text font-size="24" x="-30.470493" y="222.55362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Moreno">
+            [Moreno]
+        </text>
+        <text font-size="24" x="-450.52722" y="-532.69464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Osius_1556">
+            [&quot;Osius 1556&quot;]
+        </text>
+        <text font-size="24" x="-613.02844" y="-348.25955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Osius_1560">
+            [&quot;Osius 1560&quot;]
+        </text>
+        <text font-size="24" x="-468.00375" y="48.431034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Paolini">
+            [Paolini]
+        </text>
+        <text font-size="24" x="-247.96819" y="-661.1382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Pareus">
+            [Pareus]
+        </text>
+        <text font-size="24" x="-691.585" y="-85.996574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Schermer">
+            [Schermer]
+        </text>
+        <text font-size="24" x="-405.05002" y="258.72928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Barresi">
+            [Barresi]
+        </text>
+        <text font-size="24" x="-63.768078" y="466.24683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Bergler">
+            [Bergler]
+        </text>
+        <text font-size="24" x="-250.89798" y="400.96985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Clarke">
+            [Clarke]
+        </text>
+        <text font-size="24" x="-601.8475" y="356.99243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Ernesti">
+            [Ernesti]
+        </text>
+        <text font-size="24" x="340.33887" y="354.63562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Mariner">
+            [Mariner]
+        </text>
+        <text font-size="24" x="520.03394" y="459.95718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Otto">
+            [Otto]
+        </text>
+        <text font-size="24" x="-223.50336" y="142.73668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Schafer">
+            [Schafer]
+        </text>
+        <text font-size="24" x="146.69177" y="684.0316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Brescia">
+            [Brescia]
+        </text>
+        <text font-size="24" x="134.34937" y="451.92523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Chateillon">
+            [Chateillon]
+        </text>
+        <text font-size="24" x="-674.68353" y="148.44656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Lycius">
+            [Lycius]
+        </text>
+        <text font-size="24" x="-272.95135" y="642.4828" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Pseudo-Manuzio">
+            [Pseudo-Manuzio]
+        </text>
+        <text font-size="24" x="-66.171326" y="696.0372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Reuchlin_1495">
+            [&quot;Reuchlin 1495&quot;]
+        </text>
+        <text font-size="24" x="343.2064" y="601.9789" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Rhenanus">
+            [Rhenanus]
+        </text>
+        <text font-size="24" x="-455.9034" y="524.14996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Crespinus">
+            [Crespinus]
+        </text>
+    </g>
+</svg>

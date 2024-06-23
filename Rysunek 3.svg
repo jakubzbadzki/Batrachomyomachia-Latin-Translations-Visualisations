@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="378.2392"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-186.137421 -358.516785 378.239197 648.034729" height="648.0347"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Bergler id_Chateillon"
+              d="M 79.332077,-243.877930 A 106.840651,106.840651 0,0 1,-7.187562,-173.284988"
+              stroke="#39c27f" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Clarke"
+              d="M 78.795158,-244.054672 A 235.620489,235.620489 0,0 1,-140.813263,-93.087921"
+              stroke="#99c060" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Ernesti"
+              d="M 85.968193,-244.202698 A 454.553764,454.553764 0,0 1,-42.406506,269.328094"
+              stroke="#99c060" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bergler id_Pseudo-Manuzio"
+              d="M 89.000656,-246.139725 A 141.624191,141.624191 0,0 1,110.600327,-94.131310"
+              stroke="#a3b958" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bergler id_Reuchlin_1495"
+              d="M 72.260048,-254.650192 A 115.415759,115.415759 0,0 1,-19.507706,-335.031982"
+              stroke="#b9a402" stroke-width="5.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bergler id_Rhenanus"
+              d="M 85.354004,-243.975159 A 231.229239,231.229239 0,0 1,8.196035,5.588835"
+              stroke="#a9a47f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Brescia id_Crespinus"
+              d="M 76.055786,241.293427 A 107.223405,107.223405 0,0 1,76.708946,129.169403"
+              stroke="#268169" stroke-width="4.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Brescia id_Ernesti"
+              d="M 74.622040,256.732758 A 111.908959,111.908959 0,0 1,-40.898991,279.641296"
+              stroke="#86837f" stroke-width="1.8000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Brescia id_Lycius"
+              d="M 72.036201,252.425308 A 172.717672,172.717672 0,0 1,-108.717430,190.953537"
+              stroke="#a54d61" stroke-width="4.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brescia id_Pseudo-Manuzio"
+              d="M 76.378326,241.085846 A 279.743667,279.743667 0,0 1,99.666534,-77.544731"
+              stroke="#8f7c77" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Brescia id_Rhenanus"
+              d="M 73.498268,243.774002 A 209.583681,209.583681 0,0 1,-2.630483,21.215580"
+              stroke="#95679e" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chateillon id_Clarke"
+              d="M -21.331078,-163.325668 A 129.437047,129.437047 0,0 1,-140.836014,-92.584991"
+              stroke="#60c2df" stroke-width="2.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Crespinus"
+              d="M -9.007833,-166.602432 A 258.137222,258.137222 0,0 1,85.304276,111.369102"
+              stroke="#00c0c9" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chateillon id_Lycius"
+              d="M -13.630986,-163.048553 A 306.996015,306.996015 0,0 1,-106.794632,176.608215"
+              stroke="#7f8cc1" stroke-width="0.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Pseudo-Manuzio"
+              d="M -7.149867,-172.288803 A 125.816455,125.816455 0,0 1,102.657150,-94.591682"
+              stroke="#69bbd7" stroke-width="9.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Reuchlin_1495"
+              d="M -23.095375,-180.449280 A 143.647341,143.647341 0,0 1,-27.479162,-336.356476"
+              stroke="#7fa682" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chateillon id_Rhenanus"
+              d="M -10.667378,-164.794342 A 154.051024,154.051024 0,0 1,5.171369,2.939700"
+              stroke="#6fa6ff" stroke-width="8.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Ernesti"
+              d="M -143.013809,-87.027275 A 318.753726,318.753726 0,0 1,-46.562130,266.364990"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Lycius"
+              d="M -143.977646,-85.987442 A 232.097362,232.097362 0,0 1,-109.876198,174.048065"
+              stroke="#df8aa2" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Clarke id_Pseudo-Manuzio"
+              d="M -142.494568,-98.840996 A 214.196947,214.196947 0,0 1,98.146858,-91.267006"
+              stroke="#c9b9b8" stroke-width="5.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Clarke id_Reuchlin_1495"
+              d="M -152.293671,-103.177773 A 235.423295,235.423295 0,0 1,-30.886732,-340.143982"
+              stroke="#dfa462" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clarke id_Rhenanus"
+              d="M -140.811325,-93.325653 A 153.256016,153.256016 0,0 1,-3.225641,2.249197"
+              stroke="#cfa4df" stroke-width="2.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Crespinus id_Ernesti"
+              d="M 81.440491,130.887207 A 169.781246,169.781246 0,0 1,-40.405800,273.256042"
+              stroke="#60beaa" stroke-width="3.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Crespinus id_Lycius"
+              d="M 76.311882,128.881607 A 172.067292,172.067292 0,0 1,-105.072273,185.912766"
+              stroke="#7f898c" stroke-width="3.6000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Crespinus id_Pseudo-Manuzio"
+              d="M 77.583092,112.155426 A 172.911459,172.911459 0,0 1,99.435524,-77.744843"
+              stroke="#69b8a2" stroke-width="6.2000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Crespinus id_Rhenanus"
+              d="M 72.906288,117.722282 A 113.939255,113.939255 0,0 1,0.678607,21.623217"
+              stroke="#6fa3c9" stroke-width="7.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ernesti id_Lycius"
+              d="M -59.409050,272.072327 A 94.215027,94.215027 0,0 1,-114.429253,192.862656"
+              stroke="#df8aa2" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ernesti id_Rhenanus"
+              d="M -54.292473,266.641449 A 224.032101,224.032101 0,0 1,-7.009808,18.531946"
+              stroke="#cfa4df" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lycius id_Rhenanus"
+              d="M -114.832977,172.866852 A 171.806011,171.806011 0,0 1,-9.109202,15.209215"
+              stroke="#ef6fc1" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pseudo-Manuzio id_Reuchlin_1495"
+              d="M 97.272354,-89.904381 A 241.171840,241.171840 0,0 1,-23.629410,-334.852570"
+              stroke="#e99d5a" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pseudo-Manuzio id_Rhenanus"
+              d="M 103.835060,-75.461639 A 119.562920,119.562920 0,0 1,10.132858,10.245831"
+              stroke="#d99ed7" stroke-width="12.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="82.1891"
+                class="id_Bergler" cy="-253.46112" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-17.149141"
+                class="id_Chateillon" cy="-172.40924" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-150.81125"
+                class="id_Clarke" cy="-93.28826" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-50.097717"
+                class="id_Ernesti" cy="275.71912" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="9.2" cx="106.097885"
+                class="id_Pseudo-Manuzio" cy="-85.202255" stroke="#937d7b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-21.994104"
+                class="id_Reuchlin_1495" cy="-344.71796" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="0.22957984"
+                class="id_Rhenanus" cy="11.633303" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="81.62793"
+                class="id_Brescia" cy="249.5971" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="82.37745"
+                class="id_Crespinus" cy="120.9312" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="-114.59621"
+                class="id_Lycius" cy="182.86404" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="82.1891" y="-248.00018" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Bergler">
+            Bergler
+        </text>
+        <text font-size="24" x="-17.149141" y="-168.15143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Chateillon">
+            Chateillon
+        </text>
+        <text font-size="24" x="-150.81125" y="-89.03045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Clarke">
+            Clarke
+        </text>
+        <text font-size="24" x="-50.097717" y="279.96716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Ernesti">
+            Ernesti
+        </text>
+        <text font-size="24" x="106.097885" y="-80.95421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Pseudo-Manuzio">
+            Pseudo-Manuzio
+        </text>
+        <text font-size="24" x="-21.994104" y="-340.4699" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Reuchlin_1495">
+            Reuchlin 1495
+        </text>
+        <text font-size="24" x="0.22957984" y="15.88135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Rhenanus">
+            Rhenanus
+        </text>
+        <text font-size="24" x="81.62793" y="253.84515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Brescia">
+            Brescia
+        </text>
+        <text font-size="24" x="82.37745" y="126.38042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Crespinus">
+            Crespinus
+        </text>
+        <text font-size="24" x="-114.59621" y="188.32498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Times New Roman" class="id_Lycius">
+            Lycius
+        </text>
+    </g>
+</svg>
